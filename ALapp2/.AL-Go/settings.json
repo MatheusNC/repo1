@@ -2,5 +2,9 @@
   "country": "us",
   "appFolders": [],
   "testFolders": [],
-  "repoVersion": "2.0"
+  "repoVersion": "2.0",
+  "DeployToBC": {
+    "EnvironmentName": "DEV",
+    "continuousDeployment": true
+  }
 }
