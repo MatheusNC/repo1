@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Pentare DEV",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "DEV",
+            "schemaUpdateMode": "ForceSync",
+            //"schemaUpdateMode": "Synchronize",
+            "startupObjectId": 9022,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "86466b74-0140-40b0-99a0-ee0ad6251780"
+        },
+        {
+            "name": "Sevengel DEV-COP",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "DEV-COP",
+            "schemaUpdateMode": "ForceSync",
+            //"schemaUpdateMode": "Synchronize",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "4b53c722-34c4-4fd4-9744-1f9608395664"
+        }
+    ]
+}
