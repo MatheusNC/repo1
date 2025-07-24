@@ -1,0 +1,25 @@
+{ 
+    "xliffmergeOptions":
+    {
+    "srcDir": "Translations",
+    "genDir": "Translations",
+    "i18nFile": "PTR_ScheduleExtensions.g.xlf",
+    "i18nBaseFile": "PTR_ScheduleExtensions",
+    "i18nFormat": "xlf",
+    "encoding": "UTF-8",
+    "defaultLanguage": "en-US",
+    "languages": ["pt-BR"],
+    "removeUnusedIds": true,
+    "useSourceAsTarget": true,
+    "targetPrefix": "",
+    "targetSuffix": "",
+    "beautifyOutput": true,
+    "preserveOrder": true,
+    "allowIdChange": false,
+    "autotranslate": false,
+    "apikey": "",
+    "apikeyfile": "",
+    "verbose": true,
+    "quiet": false
+    }
+}
