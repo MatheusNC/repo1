@@ -2,7 +2,7 @@
   "id": "fc68e5e1-de48-4be4-9893-f8694c9fa4d2",
   "name": "PTR_ScheduleExtensions",
   "publisher": "Pentare Consultoria em Tecnologia Ltda",
-  "version": "1.0.0.4",
+  "version": "2.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -27,7 +27,7 @@
   },
   "runtime": "14.3",
   "features": [
-    "NoImplicitWith", 
+    "NoImplicitWith",
     "TranslationFile"
   ]
 }
